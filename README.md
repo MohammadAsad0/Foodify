@@ -9,5 +9,5 @@ A c++ application similar to foodpanda. The only difference is it is build on te
 
 and much more.
 
-*This was build by me, Hassan Raza, and Hamza Usmani in our 3rd semester DS project at FAST NU.
+*This was build by me, Hassan Raza, and Hamza Usmani in our 3rd semester DS project at FAST NU.*
 # Use c++11 to avoid warnings.
